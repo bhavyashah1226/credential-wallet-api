@@ -1,0 +1,3 @@
+METHOD^|^URL^|^REQ_HEADERS^|^REQ_BODY^|^RESPONSE_CODE^|^RESPONSE_BODY
+post^|^http://localhost:8080/accounts^|^{"commit-hash":"123abc"}^|^{"email":"test@example.com"}^|^201^|^{"headers": {"api-version": "1.0.0","commit-hash": "928d28d"}}
+get^|^http://localhost:8080/me^|^{"Token": "AuthToken"}^|^^|^200^|^{"id": "unique-id","did": "","name": "","image": "","email":"test@example.com","settings":{},"createdAt":"2020-12-30T14:15:22Z","updatedAt":"2020-12-30T14:15:22Z","headers": {"api-version": "1.0.0"}}
