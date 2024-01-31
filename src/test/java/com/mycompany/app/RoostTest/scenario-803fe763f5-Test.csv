@@ -1,0 +1,73 @@
+METHOD^|^URL^|^REQ_HEADERS^|^REQ_BODY^|^RESPONSE_CODE^|^RESPONSE_BODY
+post^|^http://localhost:8080/accounts^|^{"commit-hash": "928d28d"}^|^{"email": "test@example.com"}^|^201^|^{
+                    "description": "successful operation",
+                    "headers": {
+                        "api-version": {
+                            "description": "API version",
+                            "style": "simple",
+                            "explode": false,
+                            "schema": {
+                                "type": "string",
+                                "example": "1.0.0"
+                            }
+                        },
+                        "commit-hash": {
+                            "description": "Commit Hash",
+                            "style": "simple",
+                            "explode": false,
+                            "schema": {
+                                "type": "string",
+                                "example": "928d28d"
+                            }
+                        }
+                    }
+                }
+post^|^http://localhost:8080/authorizations^|^{"Token": "apiKey"}^|^{"email": "test@example.com"}^|^201^|^{
+                    "id": "35adcf57-2cf7-4945-a980-e9753ea072a0",
+                    "name": "John Doe",
+                    "email": "test@example.com",
+                    "createdAt": "2022-03-17T15:39:52Z",
+                    "updatedAt": "2022-03-17T15:39:52Z",
+                    "headers": {
+                        "api-version": {
+                            "description": "API version",
+                            "style": "simple",
+                            "explode": false,
+                            "schema": {
+                                "type": "string",
+                                "example": "1.0.0"
+                            }
+                        },
+                        "location": {
+                            "description": "Location of the created resource",
+                            "style": "simple",
+                            "explode": false,
+                            "schema": {
+                                "type": "string"
+                            }
+                        }
+                    }
+                }
+get^|^http://localhost:8080/authorizations^|^{"Token": "apiKey"}^|^N/A^|^200^|^{
+                    "total": 1,
+                    "authorizations": [
+                        {
+                            "id": "35adcf57-2cf7-4945-a980-e9753ea072a0",
+                            "name": "John Doe",
+                            "email": "test@example.com",
+                            "createdAt": "2022-03-17T15:39:52Z",
+                            "updatedAt": "2022-03-17T15:39:52Z"
+                        }
+                    ],
+                    "headers": {
+                        "api-version": {
+                            "description": "API version",
+                            "style": "simple",
+                            "explode": false,
+                            "schema": {
+                                "type": "string",
+                                "example": "1.0.0"
+                            }
+                        }
+                    }
+                }
