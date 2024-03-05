@@ -1,0 +1,11 @@
+id,initials,firstName,middleName,lastName,birthDate,birthPlace,phone,email,postalCode,houseNumber,houseNumberPostfix,countryCode,reference,statusCode
+5a1c33f1-4e4d-4eaa-a2dd-4d1fa4a3c5e1,JM,John,M,Smith,1990-12-17,Boston,617-555-0172,johnsmith@gmail.com,02115,12,A,US,987654321,200
+3b7c29f2-5b4a-415b-a234-1ca3bca3b6e2,AS,Alice,S,Johnson,1985-06-24,New York,212-555-0183,alicejohnson@yahoo.com,10001,23,B,US,123456789,200
+7c8d30d1-5c6a-4235-a235-2cb3bcb3c7e3,PM,Peter,M,Jackson,1980-02-15,Chicago,312-555-0194,peterjackson@hotmail.com,60616,34,C,US,234567890,200
+9d9e31c0-5d8a-4336-a236-3db3ccb3d8d4,BN,Bob,N,Williams,1975-08-05,Los Angeles,213-555-0205,bobwilliams@aol.com,90001,45,D,US,345678901,200
+afaf32af-5eaa-4437-a237-4ec3cdc3e9e5,CM,Charles,M,Brown,1970-03-26,Houston,713-555-0216,charlesbrown@msn.com,77002,56,E,US,456789012,200
+b1b0338e-5faa-4538-a238-5fd3ded3fae6,DM,David,M,Davis,1965-11-14,Philadelphia,215-555-0227,daviddavis@icloud.com,19102,67,F,US,567890123,200
+c3c1357d-60aa-4639-a239-6ge3eef3gbg7,EM,Edward,M,Martin,1960-07-03,Phoenix,602-555-0238,edwardmartin@yahoo.com,85003,78,G,US,678901234,200
+d5d2376c-61aa-473a-a23a-7hf3fgf3hch8,FM,Frank,M,Thompson,1955-02-20,San Antonio,210-555-0249,frankthompson@hotmail.com,78205,89,H,US,789012345,200
+e7e3395b-62aa-483b-a23b-8ig3ghf3idj9,GM,George,M,Taylor,1950-09-08,San Diego,619-555-0260,georgetaylor@aol.com,92101,90,I,US,890123456,200
+f9f4314a-63aa-493c-a23c-9jh3hih3jek0,HM,Harry,M,Anderson,1945-03-29,Dallas,214-555-0271,harryanderson@msn.com,75201,101,J,US,901234567,200

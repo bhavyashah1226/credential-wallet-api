@@ -1,0 +1,11 @@
+initials,firstName,middleName,lastName,birthDate,birthPlace,phone,email,postalCode,houseNumber,houseNumberPostfix,countryCode,reference,statusCode
+JH,John,Harold,Smith,1980-05-10,Los Angeles,1234567890,johnsmith@email.com,90001,123,A,US,REF123,201
+MB,Mary,Beth,Doe,1990-10-15,New York,2345678901,marydoe@email.com,10001,456,B,US,REF456,201
+RB,Richard,Bruce,Wayne,1972-02-19,Gotham,3456789012,richardwayne@email.com,07002,789,C,US,REF789,201
+CL,Clark,Joseph,Kent,1980-12-01,Smallville,4567890123,clarkkent@email.com,67481,123,D,US,REF1234,201
+PP,Peter,Benjamin,Parker,1992-08-10,Queens,5678901234,peterparker@email.com,11375,456,E,US,REF4567,201
+TS,Tony,Edward,Stark,1970-05-29,Long Island,6789012345,tonystark@email.com,11788,789,F,US,REF7890,201
+BW,Bruce,Anthony,Banner,1969-12-18,Dayton,7890123456,brucebanner@email.com,45402,123,G,US,REF12345,201
+SC,Stephen,Vincent,Strange,1933-11-01,Philadelphia,8901234567,stephenstrange@email.com,19104,456,H,US,REF45678,201
+SS,Steve,Grant,Rogers,1918-07-04,Brooklyn,9012345678,stevenrogers@email.com,11201,789,I,US,REF78901,201
+TT,Thor,Odinson,1976-08-11,Asgard,0123456789,thorodinson@email.com,11201,123,J,US,REF123456,201
