@@ -1,0 +1,11 @@
+email,otp,client,statusCode
+john_doe@test.com,123456,web,201
+jane_doe@test.com,654321,mobile,201
+adam_smith@test.com,112233,desktop,201
+eve_brown@test.com,332211,api,201
+mike_jones@test.com,445566,web,400
+lisa_white@test.com,665544,mobile,400
+paul_black@test.com,778899,desktop,400
+emma_green@test.com,998877,api,400
+tom_blue@test.com,223344,web,201
+sara_yellow@test.com,443322,mobile,201

@@ -1,0 +1,11 @@
+id,reference,startDate,endDate,credentialUrl,statusCode
+3d8bdb98-a6d6-48e2-8b70-24707d2b2fe6,REF123,2022-01-01,2022-12-31,http://example.com/credentials/1,201
+6b2dd78c-62c9-4c5f-a1f5-9079e9e8cd96,REF124,2022-02-01,2022-11-30,http://example.com/credentials/2,201
+7c3edf89-83d9-4d5e-b1f6-a08f9e8edc97,REF125,2022-03-01,2022-12-15,http://example.com/credentials/3,400
+8d4fef9a-94d9-4d5f-b1f7-b09f9e8fdc98,REF126,2022-04-01,2022-12-20,http://example.com/credentials/4,401
+9e5fffaa-a5d9-4d5e-b1f8-c0af9e8edd99,REF127,2022-05-01,2022-12-25,http://example.com/credentials/5,201
+af6ffgab-b6d9-4d5f-b1f9-d1bf9e8ede9a,REF128,2022-06-01,2023-01-01,http://example.com/credentials/6,400
+bf7ffhbc-c7d9-4d5e-b1fa-e2cf9e8edf9b,REF129,2022-07-01,2023-02-01,http://example.com/credentials/7,401
+cf8ffibd-d8d9-4d5e-b1fb-f3df9e8edg9c,REF130,2022-08-01,2023-03-01,http://example.com/credentials/8,201
+df9ffjbe-e9d9-4d5e-b1fc-g4ef9e8edh9d,REF131,2022-09-01,2023-04-01,http://example.com/credentials/9,400
+efaffkbf-fad9-4d5e-b1fd-h5ff9e8edi9e,REF132,2022-10-01,2023-05-01,http://example.com/credentials/10,401

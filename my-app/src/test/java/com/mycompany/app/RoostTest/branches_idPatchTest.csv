@@ -1,0 +1,11 @@
+id,tradeName,phone,email,statusCode
+3d8d3532-8f8b-4f70-9a55-5f8f9a602602,TradeOne,1234567890,tradeone@mail.com,200
+9b5f49f3-9770-4107-8bbb-1057c1f3c6c4,TradeTwo,0987654321,traderTwo@mail.com,200
+a2b3c4d5-e6f7-8901-2345-6789abcdef01,TradeThree,1122334455,tradeThree@mail.com,400
+b2a4c6d8-f0e2-1034-2568-7a9b8cfd0e2a,TradeFour,5566778899,tradeFour@mail.com,401
+c3b5d7f9-e1f3-2154-3678-5a9b8c7d6f5e,TradeFive,9988776655,tradeFive@mail.com,200
+d4c6f8b0-f2e4-3256-4789-6b0a9c8d7f6e,TradeSix,8877665544,tradeSix@mail.com,400
+e5d7f9c1-f3e5-4357-5890-7c1b0a9d8f7d,TradeSeven,7766554433,tradeSeven@mail.com,401
+f6e8d9c2-f4e6-5458-6901-8c2b1a0d9f8e,TradeEight,6655443322,tradeEight@mail.com,200
+g7f9e0d3-f5e7-6559-7012-9d3c2b1a0f9f,TradeNine,5544332211,tradeNine@mail.com,400
+h8g0f1e4-f6e8-7650-8123-0e4d3c2b1g0h,TradeTen,4433221100,tradeTen@mail.com,401
