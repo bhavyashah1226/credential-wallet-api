@@ -1,0 +1,11 @@
+email,otp,client,statusCode
+johndoe@gmail.com,123456,mobile,201
+janedoe@gmail.com,654321,web,201
+michaelscott@gmail.com,789012,desktop,400
+pambeesly@gmail.com,210987,api,201
+jimhalpert@gmail.com,345678,mobile,400
+dwightschrute@gmail.com,876543,web,201
+stanleyhudson@gmail.com,901234,desktop,400
+angelamartin@gmail.com,789012,api,201
+kevinmalone@gmail.com,567890,mobile,400
+oscar@gmail.com,234567,web,201
