@@ -1,0 +1,11 @@
+email,otp,client,statusCode
+johndoe1@example.com,123456,mobile,201
+janedoe2@example.com,654321,web,201
+mikedoe3@example.net,987654,desktop,201
+sarahdoe4@example.org,456789,api,201
+peterdoe5@example.com,321654,mobile,400
+lucydoe6@example.com,654123,web,400
+bobdoe7@example.net,789456,desktop,400
+emilydoe8@example.org,987321,api,400
+tomdoe9@example.com,123789,mobile,201
+karendoe10@example.com,321987,web,201
