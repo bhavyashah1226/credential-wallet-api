@@ -1,0 +1,11 @@
+email,statusCode
+john.doe@example.com,200
+jane.doe@example.com,200
+mike.smith@example.com,400
+jessica.riley@example.com,200
+david.jones@example.com,400
+sarah.wilson@example.com,200
+paul.thompson@example.com,200
+lisa.johnson@example.com,400
+tom.brown@example.com,200
+susan.miller@example.com,400
