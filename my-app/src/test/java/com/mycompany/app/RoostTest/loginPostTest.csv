@@ -1,0 +1,11 @@
+email,otp,client,statusCode
+johndoe@gmail.com,123456,mobile,201
+janedoe@gmail.com,654321,web,201
+richardroe@gmail.com,987654,desktop,400
+emilydoe@gmail.com,456789,api,201
+robertdoe@gmail.com,321654,mobile,400
+lauradoe@gmail.com,789123,web,201
+nancydoe@gmail.com,654987,desktop,400
+pauldoe@gmail.com,123789,api,201
+lindadoe@gmail.com,321987,mobile,400
+michaeldoe@gmail.com,987123,web,201
