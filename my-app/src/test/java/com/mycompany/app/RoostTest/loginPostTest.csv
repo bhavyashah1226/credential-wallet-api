@@ -1,0 +1,11 @@
+email^|^otp^|^client^|^statusCode
+john.doe@example.com^|^123456^|^mobile^|^201
+jane.doe@example.com^|^654321^|^web^|^201
+mike.smith@example.com^|^789012^|^desktop^|^400
+mary.jones@example.com^|^210987^|^api^|^201
+peter.parker@example.com^|^345678^|^mobile^|^400
+tony.stark@example.com^|^876543^|^web^|^201
+steve.rogers@example.com^|^901234^|^desktop^|^400
+natasha.romanoff@example.com^|^567890^|^api^|^201
+clark.kent@example.com^|^234567^|^mobile^|^400
+bruce.wayne@example.com^|^890123^|^web^|^201
