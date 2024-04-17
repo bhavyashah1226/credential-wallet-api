@@ -1,0 +1,11 @@
+commit-hash^|^email^|^statusCode
+a1b2c3d^|^user1@example.com^|^201
+e4f5g6h^|^user2@example.com^|^400
+i7j8k9l^|^user3@example.com^|^201
+m0n1o2p^|^user4@example.com^|^400
+q3r4s5t^|^user5@example.com^|^201
+u6v7w8x^|^user6@example.com^|^400
+y9z0a1b^|^user7@example.com^|^201
+c2d3e4f^|^user8@example.com^|^400
+g5h6i7j^|^user9@example.com^|^201
+k8l9m0n^|^user10@example.com^|^400
